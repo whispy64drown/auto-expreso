@@ -1,0 +1,88 @@
+.list-panel {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.list-panel h2 {
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+  color: #0077b6;
+  border-bottom: 2px solid #f4f7f6;
+  padding-bottom: 10px;
+}
+
+.empty-msg {
+  color: #888;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+.expense-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.expense-table th, .expense-table td {
+  padding: 12px;
+  border-bottom: 1px solid #eeeeee;
+  font-size: 0.95rem;
+}
+
+.expense-table th {
+  background-color: #f8f9fa;
+  color: #555;
+  font-weight: 600;
+}
+
+.badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.badge.toll-badge {
+  background-color: #ffe3e3;
+  color: #e63946;
+}
+
+.badge.recharge-badge {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-view {
+  background: #0077b6;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.btn-del {
+  background: #e63946;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.btn-view:hover { background: #005683; }
+.btn-del:hover { background: #c02834; }

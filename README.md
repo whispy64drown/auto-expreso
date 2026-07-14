@@ -18,9 +18,9 @@ The AutoExpreso Toll & Expense Tracker is a dedicated, streamlined web applicati
 * **Build System:** Node Package Manager (npm) & Create React App structural backbone
 
 ## Author
-* **Name:** Carlos "TechBoricua" Sanabria
-* **Email:** carlos.sanabria.dev@autoexpresotracker.io
-* **Website:** https://github.com/your-username/auto-expreso
+* **Name:** whispy
+* **Email:** whispy64drown@outlook.com
+* **Website:** [auto expreso](https://www.autoexpreso.com.co)
 * **Bio:** Carlos is a seasoned senior frontend architect with over 12 years of enterprise engineering experience. A Master of JavaScript optimization, clean UI rendering, and scalable responsive structures, he dedicates his spare time to mentoring junior engineers and contributing to open-source transit utilities. Known universally for his deeply empathetic helping nature, Carlos builds tools that simplify daily life across the island.
 
 ## Getting Started
